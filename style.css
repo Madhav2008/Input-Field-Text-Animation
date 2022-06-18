@@ -17,4 +17,6 @@ body {
     background: #1d2b3a;
 }
 
-.inputBox {position: absolute;}
+.inputBox {
+    position: absolute;
+}
