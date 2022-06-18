@@ -22,4 +22,6 @@ body {
     width: 250px;
 }
 
-.inputBox input {width: 100%;}
+.inputBox input {
+    width: 100%;
+}
