@@ -12,6 +12,6 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    flex-direction: column;gap: ;
+    flex-direction: column;gap: 30px;
     background: #222;
 }
