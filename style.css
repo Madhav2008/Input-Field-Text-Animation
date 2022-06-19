@@ -33,4 +33,6 @@ body {
     font-size: 1em;
 }
 
-.inputBox input {position: absolute;}
+.inputBox input {
+    position: absolute;
+}
