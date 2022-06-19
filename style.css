@@ -48,5 +48,5 @@ body {
 .inputBox input:focus~span {
     color: #00dfc4;
     transform: translateX(10px) translateY(-7px);
-    font-size: 0.65em;
+    font-size: 0.65em;padding: 10px;
 }
