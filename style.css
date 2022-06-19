@@ -59,7 +59,7 @@ body {
 
 .inputBox:nth-child(2) input:valid~span,
 .inputBox:nth-child(2) input:focus~span {
-    background: #00dfc4;
+    background: #00dfc4;color: #1d2b3a;
 }
 
 .inputBox input:valid,
