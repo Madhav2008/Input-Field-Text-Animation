@@ -58,7 +58,7 @@ body {
 }
 
 .inputBox:nth-child(2) input:valid~span,
-.inputBox input:focus~span {}
+.inputBox:nth-child(2) input:focus~span {}
 
 .inputBox input:valid,
 .inputBox input:focus {
