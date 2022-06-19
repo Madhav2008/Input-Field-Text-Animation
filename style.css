@@ -58,5 +58,5 @@ body {
 
 .inputBox input:valid,
 .inputBox input:focus {
-    border: 1px solid rgba(255, 255, 255, 0.25);
+    border: 1px solid #00dfc4;
 }
