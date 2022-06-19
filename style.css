@@ -44,4 +44,4 @@ body {
 }
 
 .inputBox input:valid~span,
-.inputBox input:focus~span {}
+.inputBox input:focus~span {color: ;}
