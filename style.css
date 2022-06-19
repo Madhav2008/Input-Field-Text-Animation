@@ -38,5 +38,6 @@ body {
     left: 0;
     padding: 10px;
     pointer-events: none;
-    font-size: 1em;color: rgba(255, 255, 255, 0.25);
+    font-size: 1em;
+    color: rgba(255, 255, 255, 0.25);
 }
