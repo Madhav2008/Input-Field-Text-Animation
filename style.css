@@ -43,4 +43,4 @@ body {
     text-transform: uppercase;
 }
 
-.inputBox input:valid
+.inputBox input:valid{}
