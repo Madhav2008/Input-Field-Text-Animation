@@ -33,7 +33,7 @@ body {
     font-size: 1em;
 }
 
-.inputBox input {
+.inputBox span {
     position: absolute;
     left: 0;
     padding: 10px;
