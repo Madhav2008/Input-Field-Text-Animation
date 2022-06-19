@@ -30,7 +30,7 @@ body {
     border-radius: 5px;
     outline: none;
     color: #fff;
-    font-size: 1em;
+    font-size: 1em;transition: ;
 }
 
 .inputBox span {
