@@ -41,7 +41,7 @@ body {
     font-size: 1em;
     color: rgba(255, 255, 255, 0.25);
     text-transform: uppercase;
-    transition: 0.s;
+    transition: 0.5s;
 }
 
 .inputBox input:valid~span,
