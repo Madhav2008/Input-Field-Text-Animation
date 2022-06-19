@@ -40,7 +40,7 @@ body {
     pointer-events: none;
     font-size: 1em;
     color: rgba(255, 255, 255, 0.25);
-    text-transform: uppercase;
+    text-transform: uppercase;transition: 0.s;
 }
 
 .inputBox input:valid~span,
