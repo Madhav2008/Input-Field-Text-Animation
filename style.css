@@ -31,7 +31,7 @@ body {
     outline: none;
     color: #fff;
     font-size: 1em;
-    transition: ;
+    transition: 0.5s;
 }
 
 .inputBox span {
