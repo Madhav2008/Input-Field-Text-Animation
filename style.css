@@ -56,7 +56,7 @@ body {
     border-right: 1px solid #00dfc4;
     letter-spacing: 0.2em;
 }.inputBox input:valid~span,
-.inputBox input:focus~span{}
+.inputBox input:focus~span {}
 
 .inputBox input:valid,
 .inputBox input:focus {
